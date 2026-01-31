@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data and artifacts
+classification_cache.json
+mastersheet_classified.csv
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+
+# Images
+*.png
+
+# csv files
+*.csv
