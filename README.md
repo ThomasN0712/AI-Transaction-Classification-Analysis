@@ -34,8 +34,3 @@ Outputs
 - `mastersheet_classified.csv` — classified transactions
 - `classification_cache.json` — cache of previous classifications
 - `chart_spend_by_category.png`, `chart_monthly_spend.png`, `chart_category_share.png` — analysis charts
-
-Notes
-- The classification script reads `API_KEY` (or `OPENAI_API_KEY`/`API_TOKEN`) from the environment. Do not commit your `.env` file — it is ignored by `.gitignore`.
-
-If you want, I can also help add a small CLI or a requirements file.
